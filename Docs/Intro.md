@@ -6,9 +6,10 @@ MooTools API Documentation
 Popular Pages
 -------------
 
+- [Class][] - Use MooTools with Class
 - [Element][] - Interact with the DOM
 - [Element.Event][] - Add events to DOM Elements
-- [Class][] - Use MooTools with Class
+- [Element.Delegation][] - Event Delegation
 - [Fx.Tween][] - Create effects for single properties
 - [Request][] - An XMLHttpRequest Wrapper
 
@@ -32,6 +33,7 @@ Previous Versions Documentation
 
 [Element]: /core/Element/Element
 [Element.Event]: /core/Element/Element.Event
+[Element.Delegation]: /core/Element/Element.Delegation
 [Class]: /core/Class/Class
 [Fx.Tween]: /core/Fx/Fx.Tween
 [Request]: /core/Request/Request
